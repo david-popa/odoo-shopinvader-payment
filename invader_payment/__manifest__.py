@@ -7,7 +7,7 @@
     "summary": "Payment integration for Shopinvader",
     "version": "10.0.2.0.1",
     "category": "e-commerce",
-    "website": "https://github.com/shopinvader/odoo-shopinvader-payment",
+    "website": "https://github.com/shopinvader/None",
     "author": "ACSONE SA/NV",
     "license": "AGPL-3",
     "application": False,

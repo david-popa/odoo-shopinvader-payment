@@ -7,7 +7,7 @@
     "summary": "Shopinvader REST Services for Worldline SIPS Payments",
     "version": "10.0.2.0.0",
     "author": "ACSONE SA/NV",
-    "website": "https://github.com/shopinvader/odoo-shopinvader-payment",
+    "website": "https://github.com/shopinvader/None",
     "license": "AGPL-3",
     "category": "e-commerce",
     "depends": ["shopinvader_payment", "invader_payment_sips"],
