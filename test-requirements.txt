@@ -1,4 +1,5 @@
 odoo12-addon-shopinvader @ git+https://github.com/shopinvader/odoo-shopinvader@refs/pull/850/head#subdirectory=setup/shopinvader
+--extra-index-url=https://wheelhouse.shopinvader.com/simple
 # test requirements
 vcrpy-unittest
 unittest2
