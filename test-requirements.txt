@@ -1,3 +1,4 @@
 # test requirements
 vcrpy-unittest
 unittest2
+odoo12-addon-shopinvader @ git+https://github.com/shopinvader/odoo-shopinvader@refs/pull/850/head#subdirectory=setup/shopinvader
