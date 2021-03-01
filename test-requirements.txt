@@ -1,4 +1,4 @@
---extra-index-url=https://wheelhouse.shopinvader.com/simple
+odoo12-addon-shopinvader @ git+https://github.com/shopinvader/odoo-shopinvader@refs/pull/850/head#subdirectory=setup/shopinvader
 # test requirements
 vcrpy-unittest
 unittest2
